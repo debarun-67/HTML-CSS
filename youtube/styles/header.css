@@ -1,0 +1,30 @@
+.header{
+    height: 56px;
+    display: flex;
+    flex-direction: row;
+
+}
+
+
+.search {
+    font: 20px;
+    margin-left: 10px;
+    border-radius: 2px;
+    border-style: solid;
+}
+
+.left-section{
+    background-color: lightblue;
+}
+
+.center-section{
+    background-color: lightpink;
+    flex: 1;
+    margin-left: 30px;
+    align-items: center;
+}
+
+.right-section{
+    background-color: aqua;
+    width: 200px;
+}
