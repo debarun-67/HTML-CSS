@@ -34,7 +34,7 @@
         opacity 0.35s;
 }
 .join-button:hover {
-    background-color: rgb(37, 37, 177);
+    background-color: rgb(108, 108, 144);
     color: white;
 }
 .join-button:active {
